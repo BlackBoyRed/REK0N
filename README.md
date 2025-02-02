@@ -36,17 +36,14 @@ To use REK0N, ensure that the following tools are installed on your system:
 
 You can install these tools via your package manager (e.g., apt, brew, etc.) or by following their respective installation guides.
 
-Example of installation on Debian/Ubuntu-based systems
-```bash
 
-sudo apt install nmap whatweb nikto wapiti
-pip install sublist3r
-```
 ## Usage
+Example of installation on Debian/Ubuntu-based systems:-
+
 Clone the repository and navigate to the directory:
 ```
-git clone https://github.com/yourusername/rek0n.git
-cd rek0n
+git clone https://github.com/BlackBoyRed/REK0N.git
+cd REK0N
 ```
 Run the script:
 
